@@ -1,4 +1,4 @@
-const AGENT_URL = 'http://127.0.0.1:14545/api/v1/system-id';
+const AGENT_URL = 'http://localhost:14545/api/v1/system-id';
 
 document.addEventListener('DOMContentLoaded', () => {
   const statusContainer = document.getElementById('status-container');
